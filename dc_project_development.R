@@ -8,6 +8,7 @@ library(leaflet)
 library(tidyverse)
 library(raster)
 library(htmlwidgets)
+library(rgeos)
 
 ## only needed for project setup: create subset of nation parks boundary data for yellowstone ----
 
