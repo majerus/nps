@@ -14,8 +14,6 @@ However, the district of the entirity of Yellowstone National Park is Wyoming. T
 
 The [Vox story](https://www.vox.com/2014/5/22/5738756/you-can-kill-someone-in-a-section-of-yellowstone-and-get-away-scot) on this topic offers a good explaination along with the following video.
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/-E4OqN9tJnw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### Introduction - What is this repo? 
 
 This repo is a project designed for [DataCamp](www.datacamp.com) to help students develop their basic spatial data analysis skills and their familiarity with the package `leaflet`. The "Zone of Death" or the "Yellowstone's Polgygon of Death" as I have taken to calling it seemed like a memorable and novel spatial subject for students. 
